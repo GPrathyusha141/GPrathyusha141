@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 
-<p align="left"> <img src="[https://w7.pngwing.com/pngs/646/324/png-transparent-github-computer-icons-github-logo-monochrome-head-thumbnail.png]" alt="gprathyusha141" /> </p>
+<p align="left"> <img src="[https://github-readme-stats.vercel.app/api?username=gprathyusha141&show_icons=true&locale=en]" alt="gprathyusha141" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
