@@ -3,9 +3,6 @@
 <h3 align="center">Creative in logical way</h3>
 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
-
-<p align="left"> <img src="[https://github-readme-stats.vercel.app/api?username=gprathyusha141&show_icons=true&locale=en]" alt="gprathyusha141" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gollaladoddi-prathyusha-14a441237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gollaladoddi-prathyusha-14a441237/" height="30" width="30" /></a>
