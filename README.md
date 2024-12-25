@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gprathyusha141&label=Profile%20views&color=0e75b6&style=flat" alt="gprathyusha141" /> </p>
+<p align="left"> <img src="[https://repository-images.githubusercontent.com/227755997/3171d680-1d98-11ea-9bfd-51ba32490a41" alt="gprathyusha141" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
